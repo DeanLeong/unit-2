@@ -17,7 +17,7 @@ By the end of this unit, developers should be able to:
 
 ## Unit Schedule
 
-[Here]() is the link to this unit's calendar.
+[Here](https://git.generalassemb.ly/sei-nyc-phoenix/class-syllabus/blob/master/Unit-2.md) is the link to this unit's calendar.
 
 ## Project 2
 
