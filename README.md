@@ -29,6 +29,7 @@ We'll give more details as we get closer to the project, but you will be buildin
 
 ## Additional Resources
 
+- [Additional Readings & Info](https://git.generalassemb.ly/sei-nyc-phoenix/unit-2-transition)
 - [React docs](https://reactjs.org/)
 - [Scrimba React](https://scrimba.com/g/glearnreact)
 
